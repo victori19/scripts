@@ -3,14 +3,10 @@
 
 
 
-
-<<<<<<< HEAD
-#Author: Victoria
+#Description: Script to display system info
 
 
 
-=======
->>>>>>> ed532659d626325067c3d1b1190f6294419889a1
 
 
 lscpu
