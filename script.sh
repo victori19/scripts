@@ -4,8 +4,8 @@
 
 
 #Description: Script to display system info
-
-
+#Author: Victoria
+#Date july 2020
 
 
 
